@@ -1,6 +1,6 @@
 ## Hey there, I'm Hasibur Rahman! 👋
 
-<img src="">
+<img src="https://github.com/hasibcoder/pt-portfolio-web/blob/f907579c45f420453e83bdf854a2f18e1d24a672/banner.png">
 
 🌐 Professional Website Developer | 💻 Crafting Digital Experiences
 
